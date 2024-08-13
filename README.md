@@ -1,1 +1,0 @@
-# ArbitrageForSP500
